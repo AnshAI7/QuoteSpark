@@ -11,14 +11,11 @@ QuoteSpark detects your mood from what you type (in Hindi *and* English), shows 
 ## 📱 Screenshots
 
 <p align="center">
-  <i>Add screenshots here — home screen, mood picker, theme picker, favorites screen</i>
+  <img src="Screenshots/Home.jpeg" width="200" />
+  <img src="Screenshots/Mood-Picker.jpeg" width="200" />
+  <img src="Screenshots/Theme-Picker.jpeg" width="200" />
+  <img src="Screenshots/favorite.jpeg" width="200" />
 </p>
-
-```
-| Home Screen | Mood Picker | Favorites |
-|:-----------:|:-----------:|:---------:|
-|   [image]   |   [image]   |  [image]  |
-```
 
 ---
 
@@ -150,8 +147,8 @@ This lets users get relevant quotes just by describing how they feel, without ma
 BCA (AI), 1st Year
 CodeAlpha Intern — App Development Domain
 
-- 📧 Reach out via [LinkedIn](#) *(add your LinkedIn profile link here)*
-- 💼 [GitHub](#) *(add your GitHub profile link here)*
+- 📧 Reach out via [LinkedIn](#) *(https://www.linkedin.com/in/anshmishra701?utm_source=share_via&utm_content=profile&utm_medium=member_androi)*
+- 💼 [GitHub](#) *(https://github.com/AnshAI7)*
 
 ---
 
