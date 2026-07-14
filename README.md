@@ -89,7 +89,7 @@ codealpha_quote_generator/
 
 ```bash
 # Clone the repository
-git clone <your-github-repo-url>
+git clone https://github.com/AnshAI7/QuoteSpark.git
 cd codealpha_quote_generator
 
 # Install dependencies
