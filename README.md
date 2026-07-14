@@ -147,7 +147,7 @@ This lets users get relevant quotes just by describing how they feel, without ma
 BCA (AI), 1st Year
 CodeAlpha Intern — App Development Domain
 
-- 📧 Reach out via [LinkedIn](#) *(https://www.linkedin.com/in/anshmishra701?utm_source=share_via&utm_content=profile&utm_medium=member_androi)*
+- 📧 Reach out via [LinkedIn](#) *(https://www.linkedin.com/in/anshmishra701)*
 - 💼 [GitHub](#) *(https://github.com/AnshAI7)*
 
 ---
