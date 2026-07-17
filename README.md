@@ -9,7 +9,7 @@ QuoteSpark detects your mood from what you type (in Hindi *and* English), shows 
 ## 🎬 Demo Video
 
 <p align="center">
-  <a href="Screenshots/QuoteSpark_Demo.mp4">
+  <a href="https://drive.google.com/file/d/1d788HpkkyuPEBkNHlAFL7U6us3-tsgcc/view?usp=drive_link">
     <img src="https://img.shields.io/badge/▶-Watch%20Demo-red?style=for-the-badge" alt="Watch Demo"/>
   </a>
 </p>
