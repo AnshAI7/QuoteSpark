@@ -6,6 +6,18 @@ QuoteSpark detects your mood from what you type (in Hindi *and* English), shows 
 
 > Built by **Ansh Mishra** as part of the **CodeAlpha App Development Internship**.
 
+## 🎬 Demo Video
+
+<p align="center">
+  <a href="Screenshots/QuoteSpark_Demo.mp4">
+    <img src="https://img.shields.io/badge/▶-Watch%20Demo-red?style=for-the-badge" alt="Watch Demo"/>
+  </a>
+</p>
+
+> Full walkthrough of QuoteSpark — mood detection, themes, favorites & more.
+
+---
+
 ---
 
 ## 📱 Screenshots
